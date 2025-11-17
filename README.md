@@ -1,7 +1,7 @@
 # 😷 Detector de Cubrebocas con Visión por Computadora 
 
 ## Resumen del Proyecto
-Detector de Cubrebocas en tiempo real utilizando una Red Neuronal Convolucional (CNN) optimizada y desplegada en un microcontrolador ESP32-CAM. El procesamiento y la inferencia se realizan directamente en el MCU, y el resultado se visualiza a través de un Web Server local embebido en el MCU.
+Detector de Cubrebocas en tiempo real utilizando una Red Neuronal Convolucional (CNN) optimizada y desplegada en un microcontrolador ESP32-S3 Sense. El procesamiento y la inferencia se realizan directamente en el MCU, y el resultado se visualiza a través de un Web Server local embebido en el MCU.
 
 ## 💻 Hardware 
 
