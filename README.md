@@ -40,6 +40,6 @@ Detector de Cubrebocas en tiempo real utilizando una Red Neuronal Convolucional 
 | **Recall** | 0.8 | 1 | 
 | **F1 Score** | 0.89 | 0.91 | 
 
-## 🎥 Video Explicativo
+## 🎥 Video 
 
 [https://drive.google.com/file/d/1PTjMPiA3vfWX6udvvVP7GrOufDO9nVzP/view?usp=sharing](https://drive.google.com/file/d/1KfVIKQQr5eJqM99pCCvH2AP4FNRlnBhu/view?usp=sharing)
